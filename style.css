@@ -60,8 +60,8 @@ hr {
 }
 
 .card {
-  max-width: 75%;
-  background-color: var(--blue-800);
+  max-width: 77%;
+  background-color: var(--blue-900);
   overflow: hidden;
   padding: 24px;
   border-radius: 3%;
