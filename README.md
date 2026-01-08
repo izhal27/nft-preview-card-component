@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-nft-preview-card-component-0BuL430z3f)
 - Live Site URL: [View Live Demo](https://izhal27.github.io/nft-preview-card-component/)
 
 ## My process
